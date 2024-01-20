@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "394547520719",
+    "project_id": "resolute-bed2d",
+    "storage_bucket": "resolute-bed2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394547520719:android:0c4a4c0e80ba6084a403ba",
+        "android_client_info": {
+          "package_name": "com.example.resolute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394547520719-vr6n93unvrd0iqte0m1iuggv650bmhmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resolute",
+            "certificate_hash": "a0f20d1a888ce73ede220da17b9563eaa46c4e4a"
+          }
+        },
+        {
+          "client_id": "394547520719-20fi0h0m0v2rsnqplicgtk3n562cj3v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNZmgLNuJML3fFTvpe7ZmQR6H_5IezQug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394547520719-20fi0h0m0v2rsnqplicgtk3n562cj3v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
